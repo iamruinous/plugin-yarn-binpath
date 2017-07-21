@@ -12,7 +12,7 @@
 ## Install
 
 ```fish
-$ omf install yarn
+$ omf install yarn-binpath
 ```
 
 
@@ -31,7 +31,7 @@ $ yo
 
 [mit]:            http://opensource.org/licenses/MIT
 [author]:         http://github.com/iamruinous
-[contributors]:   https://github.com/iamruinous/plugin-yarn/graphs/contributors
+[contributors]:   https://github.com/iamruinous/plugin-yarn-binpath/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
